@@ -6,7 +6,7 @@ const Index = () => {
     <Container maxW="container.xl" p={4}>
       <VStack spacing={8} align="stretch">
         {/* Header Section */}
-        <Box bg="blue.600" color="white" py={10} textAlign="center">
+        <Box bg="#228B22" color="white" py={10} textAlign="center">
           <Heading as="h1" size="2xl">
             Maritime College
           </Heading>
